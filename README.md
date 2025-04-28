@@ -51,4 +51,10 @@ To run this project locally, follow these steps:
    pip install -r requirements.txt
 3. Start Streamlit
    ```bash
-   Start the Streamlit app:
+   streamlit run app.py
+
+![image](https://github.com/user-attachments/assets/45225bf9-4009-41f4-8cfc-26299ac70fda)
+![image](https://github.com/user-attachments/assets/9c604714-8f61-4265-8730-8c6a51202b4c)
+![image](https://github.com/user-attachments/assets/fe5e5ca7-ee13-4292-be54-6b7d8934876e)
+![image](https://github.com/user-attachments/assets/a74de249-8490-4d7e-8da8-37ddee669147)
+
