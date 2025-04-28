@@ -1,0 +1,32 @@
+S.No,DISTRICT,Hilly_Classification,Permeability,Extraction_Classification_2019,Rainfall_Classification_2019,Extraction_Classification_2021,Rainfall_Classification_2021,Extraction_Classification_2022,Rainfall_Classification_2022,Extraction_Classification_2023,Rainfall_Classification_2023
+1,Bagalkot,Non-Hilly,Moderate to Low,High,Medium,High,Medium,High,Medium,High,Medium
+2,Ballari,Non-Hilly,Low,Medium,Medium,Low,Medium,Low,Medium,Low,Medium
+3,Belagavi,Non-Hilly,Low to Moderate,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium
+4,Bengaluru (Rural),Non-Hilly,Moderate to Rapid,High,Medium,High,Medium,High,Medium,High,Medium
+5,Bengaluru (Urban),Non-Hilly,Moderate to Rapid,High,Medium,High,Medium,High,Medium,High,Medium
+6,Bidar,Non-Hilly,Low,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium
+7,Chamarajanagara,Hilly,Moderate to Rapid,High,Medium,High,High,High,High,High,High
+8,Chikkaballapura,Non-Hilly,Moderate to Rapid,High,Medium,High,Medium,High,Medium,High,Medium
+9,Chikkamagaluru,Hilly,Rapid,Low,High,Medium,High,Medium,High,Medium,High
+10,Chitradurga,Non-Hilly,Low to Moderate,High,Medium,High,Medium,High,Medium,High,Medium
+11,Dakshina Kannada,Hilly,Rapid,Low,High,Low,High,Low,High,Low,High
+12,Davanagere,Non-Hilly,Low to Moderate,High,Medium,High,Medium,High,Medium,High,Medium
+13,Dharwad,Non-Hilly,Moderate,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium
+14,Gadag,Non-Hilly,Low,High,Medium,High,Medium,Medium,Medium,Medium,Medium
+15,Hassan,Non-Hilly,Moderate to Rapid,Medium,High,Medium,Medium,Medium,Medium,Medium,Medium
+16,Haveri,Non-Hilly,Moderate,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium
+17,Kalburgi,Non-Hilly,Low,Low,Medium,Low,Medium,Low,Medium,Low,Medium
+18,Kodagu,Hilly,Rapid,Low,High,Low,High,Low,High,Low,High
+19,Kolara,Non-Hilly,Moderate to Rapid,High,Medium,High,Medium,High,Medium,High,Medium
+20,Koppal,Non-Hilly,Low,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium
+21,Mandya,Non-Hilly,Moderate,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium
+22,Mysuru,Non-Hilly,Moderate,Low,Medium,Medium,Medium,Medium,Medium,Medium,Medium
+23,Raichur,Non-Hilly,Low,Low,Medium,Low,Medium,Low,Medium,Low,Medium
+24,Ramanagara,Hilly,Moderate to Rapid,High,Medium,High,High,High,Medium,High,Medium
+25,Shivamogga,Hilly,Moderate,Low,High,Low,High,Low,High,Low,High
+26,Tumakuru,Non-Hilly,Moderate,High,Medium,High,Medium,High,Medium,High,Medium
+27,Udupi,Non-Hilly,Rapid,Low,High,Low,High,Low,High,Low,High
+28,Uttara Kannada,Hilly,Rapid,Low,High,Low,High,Low,High,Low,High
+29,Vijayanagara,Non-Hilly,Low to Moderate,High,Medium,High,Medium,High,Medium,High,Medium
+30,Vijayapura,Non-Hilly,Low,Medium,Medium,Medium,Medium,Low,Medium,Low,Medium
+31,Yadgir,Non-Hilly,Low,Low,Medium,Low,Medium,Low,Medium,Low,Medium
