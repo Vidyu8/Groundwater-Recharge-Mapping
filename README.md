@@ -22,6 +22,9 @@ This project is intended for use in regions where groundwater depletion is a con
 - **NumPy**: For numerical operations and model predictions.
 - **Scikit-learn**: For implementing machine learning algorithms and error metrics.
 - **Matplotlib**: For data visualization and plotting graphs.
+- **Machine Learning Models**: 
+   - **Linear Regression**: Used for predicting future groundwater availability and classifying areas based on historical trends.
+   - **Decision Tree**: Used for classifying districts into risk levels (High, Medium, Low) based on various environmental and groundwater extraction factors.
 
 ## Installation
 
@@ -43,3 +46,9 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/groundwater-recharge-mapping.git
    cd groundwater-recharge-mapping
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Start Streamlit
+   ```bash
+   Start the Streamlit app:
